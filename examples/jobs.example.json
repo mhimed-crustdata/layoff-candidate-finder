@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Senior Backend Engineer",
+    "url": "https://jobs.example.com/senior-backend-engineer",
+    "keywords": ["software engineer", "backend", "back-end", "developer", "platform engineer"],
+    "seniority": ["Senior", "Experienced Manager"],
+    "functions": ["Engineering"],
+    "pitch": "payments infrastructure, remote in the US"
+  },
+  {
+    "title": "Product Marketing Manager",
+    "url": "https://jobs.example.com/product-marketing-manager",
+    "keywords": ["product marketing", "marketing manager", "growth marketing"],
+    "seniority": ["Senior", "Experienced Manager", "Director"],
+    "functions": ["Marketing"]
+  },
+  {
+    "title": "Enterprise Account Executive",
+    "url": "https://jobs.example.com/enterprise-ae",
+    "keywords": ["account executive", "enterprise sales", "sales manager"],
+    "seniority": ["Senior", "Experienced Manager", "Director"],
+    "functions": ["Sales"]
+  }
+]
